@@ -1,1 +1,1 @@
-Simple shell Group project done by John Blesson Rowe and Nkemdirim Enwerem
+Simple shell Group project done by John Blesson Rowe and Nkemdirim Enwerem.
